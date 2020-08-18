@@ -18,3 +18,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Longest Palindrome](August_LeetCode_Challenge/Longest_Palindrome.py)
   - [Non-overlapping Intervals](August_LeetCode_Challenge/Non_Overlapping_Intervals.py)
   - [Best Time to Buy and Sell Stock III](August_LeetCode_Challenge/Buy_And_Sell_Stocks_III.py)
+  - [Numbers With Same Consecutive Differences](August_LeetCode_Challenge/Numbers_With_Same_Consecutive_Difference.py )
