@@ -21,3 +21,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Numbers With Same Consecutive Differences](August_LeetCode_Challenge/Numbers_With_Same_Consecutive_Difference.py)
   - [Goat Latin](August_LeetCode_Challenge/Goat_Latin.py)
   - [Reorder List](August_LeetCode_Challenge/Reorder_List.py)
+  - [Sort Array By Parity](August_LeetCode_Challenge/Sort_Array_By_Parity.py)
