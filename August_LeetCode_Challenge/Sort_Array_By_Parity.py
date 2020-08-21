@@ -18,8 +18,8 @@ Note:
 1 <= A.length <= 5000
 0 <= A[i] <= 5000
 
-
-class Solution:
+# O(n) Time and O(n) Space
+class MySolution:
     def sortArrayByParity(self, A: List[int]) -> List[int]:
         even = []
         odd = []
@@ -34,8 +34,8 @@ class Solution:
         return even+odd
 
 
-
-class Solution(object):
+# O(n) Time and O(1) Space
+class Solution:
     def sortArrayByParity(self, A):
         i, j = 0, len(A) - 1
         while i < j:
