@@ -22,3 +22,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Goat Latin](August_LeetCode_Challenge/Goat_Latin.py)
   - [Reorder List](August_LeetCode_Challenge/Reorder_List.py)
   - [Sort Array By Parity](August_LeetCode_Challenge/Sort_Array_By_Parity.py)
+  - [Random Point in Non-overlapping Rectangles](August_LeetCode_Challenge/Random_Point_In_Non_Overlapping_Rectangles.py)
