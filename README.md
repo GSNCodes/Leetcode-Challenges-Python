@@ -24,3 +24,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Sort Array By Parity](August_LeetCode_Challenge/Sort_Array_By_Parity.py)
   - [Random Point in Non-overlapping Rectangles](August_LeetCode_Challenge/Random_Point_In_Non_Overlapping_Rectangles.py)
   - [Stream of Characters](August_LeetCode_Challenge/Stream_Of_Characters.py)
+  - [Sum of Left Leaves](August_LeetCode_Challenge/Sum_Of_Left_Leaves.py)
