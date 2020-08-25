@@ -44,7 +44,7 @@ days is in strictly increasing order.
 costs.length == 3
 1 <= costs[i] <= 1000
 
-
+# O(365) Time, O(365) Space
 class Solution:
     def mincostTickets(self, days: List[int], costs: List[int]) -> int:
         
