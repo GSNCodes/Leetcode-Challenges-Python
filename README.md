@@ -27,3 +27,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Sum of Left Leaves](August_LeetCode_Challenge/Sum_Of_Left_Leaves.py)
   - [Minimum Cost For Tickets](August_LeetCode_Challenge/Minimum_Cost_For_Tickets.py)
   - [Fizz Buzz](August_LeetCode_Challenge/Fizz_Buzz.py)
+  - [Find Right Interval](August_LeetCode_Challenge/Find_Right_Interval.py)
