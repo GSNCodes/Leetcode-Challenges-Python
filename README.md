@@ -29,3 +29,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Fizz Buzz](August_LeetCode_Challenge/Fizz_Buzz.py)
   - [Find Right Interval](August_LeetCode_Challenge/Find_Right_Interval.py)
   - [Implement Rand10() Using Rand7()](August_LeetCode_Challenge/Implement_Rand10_Using_Rand7.py)
+  - [Pancake Sorting](August_LeetCode_Challenge/Pancake_Sorting.py)
