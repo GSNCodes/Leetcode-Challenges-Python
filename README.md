@@ -30,3 +30,5 @@ A collection of my solutions to the Leetcode Challenges
   - [Find Right Interval](August_LeetCode_Challenge/Find_Right_Interval.py)
   - [Implement Rand10() Using Rand7()](August_LeetCode_Challenge/Implement_Rand10_Using_Rand7.py)
   - [Pancake Sorting](August_LeetCode_Challenge/Pancake_Sorting.py)
+  - [Largest Component Size by Common Factor](August_LeetCode_Challenge/Largest_Component_Size_By_Common_Factor.py)
+  - [Delete Node in a BST](August_LeetCode_Challenge/Delete_Node_In_BST.py)
