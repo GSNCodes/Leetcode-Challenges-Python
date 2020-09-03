@@ -37,3 +37,4 @@ A collection of my solutions to the Leetcode Challenges
 ## September Challenge
   - [Largest Time for Given Digits](September_LeetCode_Challenge/Largest_Time_For_Given_Digits.py)
   - [Contains Duplicate III](September_LeetCode_Challenge/Contains_Duplicate_III.py)
+  - [Repeated Substring Pattern](September_LeetCode_Challenge/Repeated_Substring_Pattern.py)
