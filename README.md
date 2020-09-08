@@ -42,3 +42,4 @@ A collection of my solutions to the Leetcode Challenges
   - [All Elements in Two Binary Search Trees](September_LeetCode_Challenge/All_Elements_In_Two_Binary_Search_Trees.py)
   - [Image Overlap](September_LeetCode_Challenge/Image_Overlap.py)
   - [Word Pattern](September_LeetCode_Challenge/Word_Pattern.py)
+  - [Sum of Root To Leaf Binary Numbers](September_LeetCode_Challenge/Sum_Of_Root_To_Leaf_Binary_Trees.py)
