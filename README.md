@@ -43,3 +43,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Image Overlap](September_LeetCode_Challenge/Image_Overlap.py)
   - [Word Pattern](September_LeetCode_Challenge/Word_Pattern.py)
   - [Sum of Root To Leaf Binary Numbers](September_LeetCode_Challenge/Sum_Of_Root_To_Leaf_Binary_Trees.py)
+  - [Compare Version Numbers](September_LeetCode_Challenge/Compare_Version_Numbers.py)
