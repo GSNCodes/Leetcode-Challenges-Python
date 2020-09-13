@@ -47,3 +47,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Bulls and Cows](September_LeetCode_Challenge/Bulls_And_Cows.py)
   - [Maximum Product Subarray](September_LeetCode_Challenge/Maximum_Product_Subarray.py)
   - [Combination Sum III](September_LeetCode_Challenge/Combination_Sum_III.py)
+  - [Insert Interval](September_LeetCode_Challenge/Insert_Interval.py)
