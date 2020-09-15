@@ -49,3 +49,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Combination Sum III](September_LeetCode_Challenge/Combination_Sum_III.py)
   - [Insert Interval](September_LeetCode_Challenge/Insert_Interval.py)
   - [House Robber](September_LeetCode_Challenge/House_Robber.py)
+  - [Length of Last Word](September_LeetCode_Challenge/Length_Of_Last_Word.py)
