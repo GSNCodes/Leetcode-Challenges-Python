@@ -32,7 +32,6 @@ A collection of my solutions to the Leetcode Challenges
   - [Pancake Sorting](August_LeetCode_Challenge/Pancake_Sorting.py)
   - [Largest Component Size by Common Factor](August_LeetCode_Challenge/Largest_Component_Size_By_Common_Factor.py)
   - [Delete Node in a BST](August_LeetCode_Challenge/Delete_Node_In_BST.py)
-  - [Maximum XOR of Two Numbers in an Array](September_LeetCode_Challenge/Maximum_XOR_Of_Two_Numbers_In_An_Array.py)
 
 
 ## September Challenge
@@ -51,3 +50,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Insert Interval](September_LeetCode_Challenge/Insert_Interval.py)
   - [House Robber](September_LeetCode_Challenge/House_Robber.py)
   - [Length of Last Word](September_LeetCode_Challenge/Length_Of_Last_Word.py)
+  - [Maximum XOR of Two Numbers in an Array](September_LeetCode_Challenge/Maximum_XOR_Of_Two_Numbers_In_An_Array.py)
