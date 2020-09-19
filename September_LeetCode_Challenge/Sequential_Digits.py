@@ -23,7 +23,7 @@ Hint #2
 Fix the starting digit then do a recursion that tries to append all valid digits.
 
 # My Solution
-# O(nlogn) Time and O(n) Space where n is the number of sequential digits in the given range
+# O(nlogn) Time and O(n) Space where n is the number of sequential numbers in the given range
 class Solution:
     def sequentialDigits(self, low: int, high: int) -> List[int]:
         
