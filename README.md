@@ -54,3 +54,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Robot Bounded In Circle](September_LeetCode_Challenge/Robot_Bounded_In_A_Circle.py)
   - [Best Time to Buy and Sell Stock](September_LeetCode_Challenge/Best_Time_To_Buy_And_Sell_Stock.py)
   - [Sequential Digits](September_LeetCode_Challenge/Sequential_Digits.py)
+  - [Unique Paths III](September_LeetCode_Challenge/Unique_Paths_III.py)
