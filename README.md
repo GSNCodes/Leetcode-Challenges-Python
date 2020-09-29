@@ -63,3 +63,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Teemo Attacking](September_LeetCode_Challenge/Teemo_Attacking.py)
   - [Evaluate Division](September_LeetCode_Challenge/Evaluate_Division.py)
   - [Subarray Product Less Than K](September_LeetCode_Challenge/Subarray_Product_Less_Than_K.py)
+  - [Word Break](September_LeetCode_Challenge/Word_Break.py)
