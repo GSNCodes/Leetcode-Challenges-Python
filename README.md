@@ -65,3 +65,6 @@ A collection of my solutions to the Leetcode Challenges
   - [Subarray Product Less Than K](September_LeetCode_Challenge/Subarray_Product_Less_Than_K.py)
   - [Word Break](September_LeetCode_Challenge/Word_Break.py)
   - [First Missing Positive](September_LeetCode_Challenge/First_Missing_Positive.py)
+  
+## October Challenge
+  - [Number of Recent Calls](October_LeetCode_Challenge/Number_Of_Recent_Calls.py)
