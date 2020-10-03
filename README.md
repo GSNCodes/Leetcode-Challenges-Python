@@ -69,3 +69,4 @@ A collection of my solutions to the Leetcode Challenges
 ## October Challenge
   - [Number of Recent Calls](October_LeetCode_Challenge/Number_Of_Recent_Calls.py)
   - [Combination Sum](October_LeetCode_Challenge/Combination_Sum.py)
+  - [K-diff Pairs in an Array](October_LeetCode_Challenge/K_Diff_Pairs_In_An_Array.py)
