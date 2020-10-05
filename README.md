@@ -71,3 +71,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Combination Sum](October_LeetCode_Challenge/Combination_Sum.py)
   - [K-diff Pairs in an Array](October_LeetCode_Challenge/K_Diff_Pairs_In_An_Array.py)
   - [Remove Covered Intervals](October_LeetCode_Challenge/Remove_Covered_Intervals.py)
+  - [Complement of Base 10 Integer](October_LeetCode_Challenge/Complement_Of_Base_10_Integer.py)
