@@ -73,3 +73,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Remove Covered Intervals](October_LeetCode_Challenge/Remove_Covered_Intervals.py)
   - [Complement of Base 10 Integer](October_LeetCode_Challenge/Complement_Of_Base_10_Integer.py)
   - [Insert into a Binary Search Tree](October_LeetCode_Challenge/Insert_Into_A_Binary_Search_Tree.py)
+  - [Rotate List](October_LeetCode_Challenge/Rotate_List.py)
