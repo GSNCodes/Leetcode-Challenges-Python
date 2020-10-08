@@ -74,3 +74,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Complement of Base 10 Integer](October_LeetCode_Challenge/Complement_Of_Base_10_Integer.py)
   - [Insert into a Binary Search Tree](October_LeetCode_Challenge/Insert_Into_A_Binary_Search_Tree.py)
   - [Rotate List](October_LeetCode_Challenge/Rotate_List.py)
+  - [Binary Search](October_LeetCode_Challenge/Binary_Search.py)
