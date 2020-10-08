@@ -21,7 +21,7 @@ Explanation: 2 does not exist in nums so return -1
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         
-        low , high = 0, len(nums)-1
+        low, high = 0, len(nums)-1
         
         while low<=high:
             
