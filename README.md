@@ -75,3 +75,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Insert into a Binary Search Tree](October_LeetCode_Challenge/Insert_Into_A_Binary_Search_Tree.py)
   - [Rotate List](October_LeetCode_Challenge/Rotate_List.py)
   - [Binary Search](October_LeetCode_Challenge/Binary_Search.py)
+  - [Serialize and Deserialize BST](October_LeetCode_Challenge/Serialize_And_Deserialize_BST.py)
