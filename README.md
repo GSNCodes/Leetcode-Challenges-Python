@@ -76,3 +76,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Rotate List](October_LeetCode_Challenge/Rotate_List.py)
   - [Binary Search](October_LeetCode_Challenge/Binary_Search.py)
   - [Serialize and Deserialize BST](October_LeetCode_Challenge/Serialize_And_Deserialize_BST.py)
+  - [Minimum Number of Arrows to Burst Balloons](October_LeetCode_Challenge/Maximum_Number_Of_Arrows_To_Burst_Balloons.py)
