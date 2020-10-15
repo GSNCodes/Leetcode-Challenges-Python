@@ -81,3 +81,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Buddy Strings](October_LeetCode_Challenge/Buddy_Strings.py)
   - [Sort List](October_LeetCode_Challenge/Sort_List.py)
   - [House Robber II](October_LeetCode_Challenge/House_Robber_II.py)
+  - [Rotate Array](October_LeetCode_Challenge/Rotate_Array.py)
