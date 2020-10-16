@@ -82,3 +82,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Sort List](October_LeetCode_Challenge/Sort_List.py)
   - [House Robber II](October_LeetCode_Challenge/House_Robber_II.py)
   - [Rotate Array](October_LeetCode_Challenge/Rotate_Array.py)
+  - [Search a 2D Matrix](October_LeetCode_Challenge/Search_A_2D_Matrix.py)
