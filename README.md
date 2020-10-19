@@ -85,3 +85,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Search a 2D Matrix](October_LeetCode_Challenge/Search_A_2D_Matrix.py)
   - [Repeated DNA Sequences](October_LeetCode_Challenge/Repeated_DNA_Sequence.py)
   - [Best Time to Buy and Sell Stock IV](October_LeetCode_Challenge/Buy_And_Sell_Stock_IV.py)
+  - [Minimum Domino Rotations For Equal Row](October_LeetCode_Challenge/Minimum_Domino_Rotations_For_Equal_Row.py)
