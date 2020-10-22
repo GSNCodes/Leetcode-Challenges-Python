@@ -88,3 +88,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Minimum Domino Rotations For Equal Row](October_LeetCode_Challenge/Minimum_Domino_Rotations_For_Equal_Row.py)
   - [Clone Graph](October_LeetCode_Challenge/Clone_Graph.py)
   - [Asteroid Collision](October_LeetCode_Challenge/Asteroid_Collision.py)
+  - [Minimum Depth of Binary Tree](October_LeetCode_Challenge/Minimum_Depth_Of_Binary_Tree.py)
