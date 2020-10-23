@@ -89,3 +89,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Clone Graph](October_LeetCode_Challenge/Clone_Graph.py)
   - [Asteroid Collision](October_LeetCode_Challenge/Asteroid_Collision.py)
   - [Minimum Depth of Binary Tree](October_LeetCode_Challenge/Minimum_Depth_Of_Binary_Tree.py)
+  - [132 Pattern](October_LeetCode_Challenge/132_Pattern.py)
