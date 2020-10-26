@@ -92,3 +92,4 @@ A collection of my solutions to the Leetcode Challenges
   - [132 Pattern](October_LeetCode_Challenge/132_Pattern.py)
   - [Bag of Tokens](October_LeetCode_Challenge/Bag_Of_Tokens.py)
   - [Stone Game IV](October_LeetCode_Challenge/Stone_Game_IV.py)
+  - [Champagne Tower](October_LeetCode_Challenge/Champagne_Tower.py)
