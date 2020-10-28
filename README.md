@@ -94,3 +94,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Stone Game IV](October_LeetCode_Challenge/Stone_Game_IV.py)
   - [Champagne Tower](October_LeetCode_Challenge/Champagne_Tower.py)
   - [Linked List Cycle II](October_LeetCode_Challenge/Linked_List_Cycle_II.py)
+  - [Summary Ranges](October_LeetCode_Challenge/Summary_Ranges.py)
