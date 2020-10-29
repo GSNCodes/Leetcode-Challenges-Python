@@ -50,7 +50,7 @@ class Solution:
                 continue
             
             while (next_1 < n and seats[next_1] == 0) or next_1 < i:
-                next_1 +=1
+                next_1 += 1
                 
             
             left  = n if prev_1 == -1 else i-prev_1
