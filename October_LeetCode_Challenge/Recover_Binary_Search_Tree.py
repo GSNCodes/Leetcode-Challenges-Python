@@ -29,7 +29,7 @@ The number of nodes in the tree is in the range [2, 1000].
 #         self.right = right
 
 
-# O(h) Time, where h is the height fo the BST and, O(1) Space
+# O(h) Time, where h is the height of the BST and, O(1) Space
 class Solution:
     
     def findWrongNodes(self, root):
