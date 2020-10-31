@@ -97,3 +97,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Summary Ranges](October_LeetCode_Challenge/Summary_Ranges.py)
   - [Maximize Distance to Closest Person](October_LeetCode_Challenge/Maximize_Distance_To_Closest_Person.py)
   - [Number of Longest Increasing Subsequence](October_LeetCode_Challenge/Number_Of_Longest_Increasing_Subsequence.py)
+  - [Recover Binary Search Tree](October_LeetCode_Challenge/Recover_Binary_Search_Tree.py)
