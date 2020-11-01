@@ -98,3 +98,6 @@ A collection of my solutions to the Leetcode Challenges
   - [Maximize Distance to Closest Person](October_LeetCode_Challenge/Maximize_Distance_To_Closest_Person.py)
   - [Number of Longest Increasing Subsequence](October_LeetCode_Challenge/Number_Of_Longest_Increasing_Subsequence.py)
   - [Recover Binary Search Tree](October_LeetCode_Challenge/Recover_Binary_Search_Tree.py)
+
+## November Challenge
+  - [Convert Binary Number in a Linked List to Integer](November_LeetCode_Challenge/Convert_Binary_Number_In_A_Linked_List_To_Integer.py)
