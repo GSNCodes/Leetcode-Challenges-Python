@@ -101,3 +101,4 @@ A collection of my solutions to the Leetcode Challenges
 
 ## November Challenge
   - [Convert Binary Number in a Linked List to Integer](November_LeetCode_Challenge/Convert_Binary_Number_In_A_Linked_List_To_Integer.py)
+  - [Insertion Sort List](November_LeetCode_Challenge/Insertion_Sort_List.py)
