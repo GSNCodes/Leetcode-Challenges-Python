@@ -105,3 +105,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Consecutive Characters](November_LeetCode_Challenge/Consecutive_Characters.py)
   - [Minimum Height Trees](November_LeetCode_Challenge/Minimum_Height_Trees.py)
   - [Minimum Cost to Move Chips to The Same Position](November_LeetCode_Challenge/Minimum_Cost_To_Move_Chips_To_The_Same_Position.py)
+  - [Find the Smallest Divisor Given a Threshold](November_LeetCode_Challenge/Find_The_Smallest_Divisor_Given_A_Threshold.py)
