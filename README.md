@@ -108,3 +108,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Find the Smallest Divisor Given a Threshold](November_LeetCode_Challenge/Find_The_Smallest_Divisor_Given_A_Threshold.py)
   - [Add Two Numbers II](November_LeetCode_Challenge/Add_Two_Numbers_II.py)
   - [Binary Tree Tilt](November_LeetCode_Challenge/Binary_Tree_Tilt.py)
+  - [Maximum Difference Between Node and Ancestor](November_LeetCode_Challenge/Maximum_Difference_Between_Node_And_Ancestor.py)
