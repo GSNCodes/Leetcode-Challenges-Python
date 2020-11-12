@@ -111,3 +111,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Maximum Difference Between Node and Ancestor](November_LeetCode_Challenge/Maximum_Difference_Between_Node_And_Ancestor.py)
   - [Flipping an Image](November_LeetCode_Challenge/Flipping_An_Image.py)
   - [Valid Square](November_LeetCode_Challenge/Valid_Square.py)
+  - [Permutations II](November_LeetCode_Challenge/Permutation_II.py)
