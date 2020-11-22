@@ -120,3 +120,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Merge Intervals](November_LeetCode_Challenge/Merge_Intervals.py)
   - [Decode String](November_LeetCode_Challenge/Decode_String.py)
   - [Search in Rotated Sorted Array II](November_LeetCode_Challenge/Search_In_Rotated_Sorted_Array_II.py)
+  - [Numbers At Most N Given Digit Set](November_LeetCode_Challenge/Numbers_At_Most_N_Given_Digit_Set.py)
