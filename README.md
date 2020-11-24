@@ -122,3 +122,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Search in Rotated Sorted Array II](November_LeetCode_Challenge/Search_In_Rotated_Sorted_Array_II.py)
   - [Numbers At Most N Given Digit Set](November_LeetCode_Challenge/Numbers_At_Most_N_Given_Digit_Set.py)
   - [Unique Morse Code Words](November_LeetCode_Challenge/Unique_Morse_Code_Words.py)
+  - [House Robber III](November_LeetCode_Challenge/House_Robber_III.py)
