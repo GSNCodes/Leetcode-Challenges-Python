@@ -124,3 +124,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Unique Morse Code Words](November_LeetCode_Challenge/Unique_Morse_Code_Words.py)
   - [House Robber III](November_LeetCode_Challenge/House_Robber_III.py)
   - [Basic Calculator II](November_LeetCode_Challenge/Basic_Calculator_II.py)
+  - [Smallest Integer Divisible by K](November_LeetCode_Challenge/Smallest_Integer_Divisible_By_K.py)
