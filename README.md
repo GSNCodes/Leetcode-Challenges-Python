@@ -125,3 +125,4 @@ A collection of my solutions to the Leetcode Challenges
   - [House Robber III](November_LeetCode_Challenge/House_Robber_III.py)
   - [Basic Calculator II](November_LeetCode_Challenge/Basic_Calculator_II.py)
   - [Smallest Integer Divisible by K](November_LeetCode_Challenge/Smallest_Integer_Divisible_By_K.py)
+  - [Longest Substring with At Least K Repeating Characters](November_LeetCode_Challenge/Longest_Substring_With_Atleast_K_Repeating_Characters.py)
