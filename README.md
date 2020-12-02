@@ -130,3 +130,6 @@ A collection of my solutions to the Leetcode Challenges
   - [Sliding Window Maximum](November_LeetCode_Challenge/Sliding_Window_Maximum.py)
   - [Jump Game III](November_LeetCode_Challenge/Jump_Game_III.py)
   - [The Skyline Problem](November_LeetCode_Challenge/The_Skyline_Problem.py)
+  
+## December Challenge
+  - [Maximum Depth of Binary Tree](December_LeetCode_Challenge/Maximum_Depth_Of_Binary_Tree.py)
