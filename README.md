@@ -135,3 +135,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Maximum Depth of Binary Tree](December_LeetCode_Challenge/Maximum_Depth_Of_Binary_Tree.py)
   - [Linked List Random Node](December_LeetCode_Challenge/Linked_List_Random_Node.py)
   - [Increasing Order Search Tree](December_LeetCode_Challenge/Increasing_Order_Search_Tree.py)
+  - [The kth Factor of n](December_LeetCode_Challenge/The_Kth_Factor_Of_N.py)
