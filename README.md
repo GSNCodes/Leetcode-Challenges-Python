@@ -138,3 +138,4 @@ A collection of my solutions to the Leetcode Challenges
   - [The kth Factor of n](December_LeetCode_Challenge/The_Kth_Factor_Of_N.py)
   - [Can Place Flowers](December_LeetCode_Challenge/Can_Place_Flower.py)
   - [Populating Next Right Pointers in Each Node II](December_LeetCode_Challenge/Populating_Next_Right_Pointers_In_Each_Node_II.py)
+  - [Spiral Matrix II](December_LeetCode_Challenge/Spiral_Matrix_II.py)
