@@ -139,3 +139,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Can Place Flowers](December_LeetCode_Challenge/Can_Place_Flower.py)
   - [Populating Next Right Pointers in Each Node II](December_LeetCode_Challenge/Populating_Next_Right_Pointers_In_Each_Node_II.py)
   - [Spiral Matrix II](December_LeetCode_Challenge/Spiral_Matrix_II.py)
+  - [Pairs of Songs With Total Durations Divisible by 60](December_LeetCode_Challenge/Pairs_Of_Songs_With_Total_Duration_Divisible_By_60.py)
