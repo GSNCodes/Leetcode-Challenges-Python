@@ -141,3 +141,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Spiral Matrix II](December_LeetCode_Challenge/Spiral_Matrix_II.py)
   - [Pairs of Songs With Total Durations Divisible by 60](December_LeetCode_Challenge/Pairs_Of_Songs_With_Total_Duration_Divisible_By_60.py)
   - [Binary Search Tree Iterator](December_LeetCode_Challenge/Binary_Search_Tree_Iterator.py)
+  - [Valid Mountain Array](December_LeetCode_Challenge/Valid_Mountain_Array.py)
