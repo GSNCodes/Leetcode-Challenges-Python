@@ -143,3 +143,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Binary Search Tree Iterator](December_LeetCode_Challenge/Binary_Search_Tree_Iterator.py)
   - [Valid Mountain Array](December_LeetCode_Challenge/Valid_Mountain_Array.py)
   - [Remove Duplicates from Sorted Array II](December_LeetCode_Challenge/Remove_Duplicates_From_Sorted_Array_II.py)
+  - [Smallest Subtree with all the Deepest Nodes](December_LeetCode_Challenge/Smallest_Subree_With_All_The_Deepest_Node.py)
