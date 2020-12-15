@@ -145,3 +145,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Remove Duplicates from Sorted Array II](December_LeetCode_Challenge/Remove_Duplicates_From_Sorted_Array_II.py)
   - [Smallest Subtree with all the Deepest Nodes](December_LeetCode_Challenge/Smallest_Subree_With_All_The_Deepest_Node.py)
   - [Burst Balloons](December_LeetCode_Challenge/Burst_Balloons.py)
+  - [Palindrome Partitioning](December_LeetCode_Challenge/Palindrome_Partitioning.py)
