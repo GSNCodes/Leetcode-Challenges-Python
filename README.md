@@ -146,3 +146,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Smallest Subtree with all the Deepest Nodes](December_LeetCode_Challenge/Smallest_Subree_With_All_The_Deepest_Node.py)
   - [Burst Balloons](December_LeetCode_Challenge/Burst_Balloons.py)
   - [Palindrome Partitioning](December_LeetCode_Challenge/Palindrome_Partitioning.py)
+  - [Squares of a Sorted Array](December_LeetCode_Challenge/Squares_Of_A_Sorted_Array.py)
