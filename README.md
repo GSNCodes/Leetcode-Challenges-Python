@@ -147,3 +147,5 @@ A collection of my solutions to the Leetcode Challenges
   - [Burst Balloons](December_LeetCode_Challenge/Burst_Balloons.py)
   - [Palindrome Partitioning](December_LeetCode_Challenge/Palindrome_Partitioning.py)
   - [Squares of a Sorted Array](December_LeetCode_Challenge/Squares_Of_A_Sorted_Array.py)
+  - [Validate Binary Search Tree](December_LeetCode_Challenge/Validate_Binary_Search_Tree.py)
+ 
