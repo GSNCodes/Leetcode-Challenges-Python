@@ -151,4 +151,5 @@ A collection of my solutions to the Leetcode Challenges
   - [4Sum II](December_LeetCode_Challenge/4Sum_II.py)
   - [Increasing Triplet Subsequence](December_LeetCode_Challenge/Increasing_Triplet_Subsequence.py)
   - [Cherry Pickup II](December_LeetCode_Challenge/Cherry_Pickup_II.py)
+  - [Decoded String at Index](December_LeetCode_Challenge/Decoded_String_At_Index.py)
  
