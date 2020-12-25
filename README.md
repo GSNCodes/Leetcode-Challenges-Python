@@ -156,4 +156,5 @@ A collection of my solutions to the Leetcode Challenges
   - [Balanced Binary Tree](December_LeetCode_Challenge/Balanced_Binary_Tree.py)
   - [Next Greater Element III](December_LeetCode_Challenge/Next_Greater_Element_III.py)
   - [Swap Nodes in Pairs](December_LeetCode_Challenge/Swap_Nodes_In_Pairs.py)
+  - [Diagonal Traverse](December_LeetCode_Challenge/Diagonal_Traverse.py)
   
