@@ -158,4 +158,5 @@ A collection of my solutions to the Leetcode Challenges
   - [Swap Nodes in Pairs](December_LeetCode_Challenge/Swap_Nodes_In_Pairs.py)
   - [Diagonal Traverse](December_LeetCode_Challenge/Diagonal_Traverse.py)
   - [Decode Ways](December_LeetCode_Challenge/Decode_Ways.py)
+  - [Jump Game IV](December_LeetCode_Challenge/Jump_Game_IV.py)
   
