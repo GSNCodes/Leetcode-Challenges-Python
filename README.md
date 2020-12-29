@@ -159,4 +159,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Diagonal Traverse](December_LeetCode_Challenge/Diagonal_Traverse.py)
   - [Decode Ways](December_LeetCode_Challenge/Decode_Ways.py)
   - [Jump Game IV](December_LeetCode_Challenge/Jump_Game_IV.py)
-  
+  - [Reach a Number](December_LeetCode_Challenge/Reach_A_Number.py)
