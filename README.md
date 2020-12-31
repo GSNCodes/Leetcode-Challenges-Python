@@ -161,3 +161,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Jump Game IV](December_LeetCode_Challenge/Jump_Game_IV.py)
   - [Reach a Number](December_LeetCode_Challenge/Reach_A_Number.py)
   - [Pseudo-Palindromic Paths in a Binary Tree](December_LeetCode_Challenge/Pseudo_Palindromic_Paths_In_A_Binary_Tree.py)
+  - [Game of Life](December_LeetCode_Challenge/Game_Of_Life.py)
