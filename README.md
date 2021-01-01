@@ -162,3 +162,4 @@ A collection of my solutions to the Leetcode Challenges
   - [Reach a Number](December_LeetCode_Challenge/Reach_A_Number.py)
   - [Pseudo-Palindromic Paths in a Binary Tree](December_LeetCode_Challenge/Pseudo_Palindromic_Paths_In_A_Binary_Tree.py)
   - [Game of Life](December_LeetCode_Challenge/Game_Of_Life.py)
+  - [Largest Rectangle in Histogram](December_LeetCode_Challenge/Largest_Rectangle_In_Histogram.py)
